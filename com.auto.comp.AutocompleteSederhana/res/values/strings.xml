@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, autoComplete!</string>
+    <string name="app_name">Membuat Teks AutoComplete</string>
+    <string name="perintah">Masukkan minimal 3 huruf</string>
+</resources>

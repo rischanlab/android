@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/portaluniv">
+<TextView android:id="@+id/textView3" android:text="@string/txtPesan" android:layout_width="wrap_content" android:textColor="#FFFFFF" android:textSize="15px" android:layout_height="wrap_content" android:layout_x="76dip" android:layout_y="37dip"></TextView>
+<Button android:id="@+id/btnLogin" android:text="@string/btnLogin" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_x="1dip" android:layout_y="349dip"></Button>
+<TextView android:id="@+id/textView1" android:text="@string/txtUser" android:layout_width="wrap_content" android:textSize="15px" android:layout_height="wrap_content" android:layout_x="21dip" android:layout_y="254dip"></TextView>
+<TextView android:id="@+id/textView2" android:text="@string/txtPass" android:layout_width="wrap_content" android:textSize="15px" android:layout_height="wrap_content" android:layout_x="22dip" android:layout_y="302dip"></TextView>
+<EditText android:id="@+id/inputUser" android:layout_width="150dip" android:gravity="left" android:layout_height="wrap_content" android:layout_x="134dip" android:layout_y="245dip"></EditText>
+<EditText android:maxWidth="20dip"  android:id="@+id/inputPass" android:layout_width="150dip" android:password="true" android:width="32dip" android:gravity="left" android:layout_height="wrap_content" android:layout_x="134dip" android:layout_y="292dip"></EditText>
+<TextView android:text="TextView" android:textSize="24dip" android:layout_height="wrap_content" android:layout_width="wrap_content" android:id="@+id/date" android:layout_x="97dip" android:layout_y="9dip"></TextView>
+</AbsoluteLayout>

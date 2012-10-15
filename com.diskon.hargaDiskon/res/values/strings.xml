@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, hargaDiskon!</string>
+    <string name="app_name">Diskon!</string>
+    <color name="trans">#00330000</color>
+    <drawable name="klik">#CCFFFFFF</drawable>
+</resources>

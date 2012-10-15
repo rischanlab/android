@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Pilih salah satu string</string>
+    <string name="app_name">Guitar Tuner </string>
+    <color name="bg">#ffffff</color>
+    <color name="textColor">#ff0000</color>
+    <color name="textColor2">#000000</color>
+    <string name="e1">Senar E</string>
+    <string name="a">Senar A</string>
+    <string name="d">Senar D</string>
+    <string name="g">Senar G</string>
+    <string name="b">Senar B</string>
+    <string name="e2">Senar E</string>
+    <string name="keluarBtn">Keluar</string>
+    <string name="Deskripsi_Gb">Guitar Image</string>
+</resources>
